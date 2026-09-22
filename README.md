@@ -5,6 +5,8 @@
 A mod that restores the classic, consistent animation for car explosion fires in Grand Theft Auto III: The Definitive Edition.
 <br />
 This was fully vibecoded (sorry), first ever vibecoded program i've done in my life.
+<br />
+Nexus Mods link: https://www.nexusmods.com/grandtheftautothetrilogy/mods/1087
 
 ## Installation Instructions
 
