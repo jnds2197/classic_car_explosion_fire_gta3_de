@@ -10,7 +10,7 @@ This was fully vibecoded (sorry), first ever vibecoded program i've done in my l
 
 <br />
 
-Drag and drop the "z_ClassicVehicleExplosionFireAnimation.pak" file into "GTA III - The Definitive Edition\Gameface\Content\Paks\\~mods" (If the ~mods pack doesn't exist, create it!).
+Drag and drop the "z_ClassicVehicleExplosionFireAnimation.pak" file into "GTA III - The Definitive Edition\Gameface\Content\Paks\\~mods" (If the ~mods folder doesn't exist, create it!).
 
 ## Demonstration videos
 
