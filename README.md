@@ -32,4 +32,5 @@ ChatGPT (lol): https://chatgpt.com/ <br />
 DE Model Fixer Tool (Packs and unpacks .pak files): https://www.nexusmods.com/grandtheftautothetrilogy/mods/944?tab=description <br />
 FModel (Explores .pak files): https://fmodel.app/ <br />
 UAssetGUI (Alters .uasset files' fields): https://github.com/atenfyr/uassetgui <br />
-Source for the "How it should be" video: https://www.youtube.com/watch?v=6lSy09Uruz0 <br />
+Source for the "How it should be" video: https://www.youtube.com/watch?v=6lSy09Uruz0 <br /> <br />
+All AI prompts used are in the file "chatgpt_prompts_used.txt".
