@@ -28,4 +28,8 @@ https://github.com/user-attachments/assets/5465fdf7-1dac-4236-8ff9-42ed88607e63
 
 ## Credits
 
-<br />
+ChatGPT (lol): https://chatgpt.com/ <br />
+DE Model Fixer Tool (Packs and unpacks .pak files): https://www.nexusmods.com/grandtheftautothetrilogy/mods/944?tab=description <br />
+FModel (Explores .pak files): https://fmodel.app/ <br />
+UAssetGUI (Alters .uasset files' fields): https://github.com/atenfyr/uassetgui <br />
+Source for the "How it should be" video: https://www.youtube.com/watch?v=6lSy09Uruz0 <br />
