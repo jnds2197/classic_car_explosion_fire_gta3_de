@@ -2119,3 +2119,58 @@ it's perfect, thank you
 
 ChatGPT:
 You’re welcome! Enjoy the classic-style flames 🔥
+
+
+Você:
+so... i just found out that the fire looked like that because the game was on minimum settings LOL but i guess it's still good for people with low-end pc's
+
+
+ChatGPT:
+LOL, that explains it 😂 And yes—it could still be useful for people who want steadier flames while keeping the game on minimum settings.
+
+One caveat: our mod doubles the flame particle spawn rate, so we’d need to check its FPS impact before calling it low-end-PC friendly. Also, I should’ve asked about your graphics settings earlier!
+
+
+Você:
+can you make a version of this mod that also works on gta vice city definitive edition and gta san andreas definitive edition? they have the same problem
+
+
+ChatGPT:
+Yes. To make compatible versions, please upload FX_fire_car.uasset and FX_fire_car.uexp from each game, found at:
+
+Gameface/Content/Common/Effects/Cascade/FX_fire_car
+Put each pair in a separate ZIP named ViceCity.zip and SanAndreas.zip so I can distinguish them.
+
+I’ll apply the same flame adjustments that worked in GTA III, preserve each game’s asset references, and build a separate .pak for each.
+
+
+Você:
+can you instead make it a single .pak file that works on all three games?
+
+
+ChatGPT:
+Yes—if all three games use compatible versions of FX_fire_car, one .pak can work in all three. You’d copy that same file into each game’s Gameface/Content/Paks/~mods/ folder.
+
+Please still upload the Vice City and San Andreas asset pairs so I can compare them with GTA III’s. They use the same asset path, so a single .pak must contain a replacement that all three games can load correctly.
+
+
+Você:
+ViceCity.7z
+Arquivo
+
+SanAndreas.7z
+Arquivo
+here
+
+
+ChatGPT:
+Done! All three games’ supplied fire assets are byte-for-byte identical, so the same patch can be used across the trilogy.
+
+zzz_ClassicVehicleFire_Trilogy_P.pak
+
+Copy this file into each game’s:
+
+Gameface/Content/Paks/~mods/
+Remove the earlier zzz_ClassicVehicleFire_Test01_P.pak when replacing it.
+
+It preserves the exact adjustments you liked. Confirmed working in GTA III by your test; Vice City and San Andreas still need in-game testing.
