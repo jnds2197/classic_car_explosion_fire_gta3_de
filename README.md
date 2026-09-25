@@ -9,7 +9,9 @@ This was fully vibecoded (sorry), first ever vibecoded program i've done in my l
 Nexus Mods link: https://www.nexusmods.com/grandtheftautothetrilogy/mods/1087
 <br />
 <br />
-****I just found out that the fire looks like that because the game was on minimum settings LOL but i guess it's still good for people that don't have a good computer
+
+###****I just found out that the fire looks like that because the game was on minimum settings LOL but i guess it's still good for people that don't have a good computer
+
 <br />
 <br />
 ## Installation Instructions
